@@ -1,7 +1,5 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">                 
-<a href="https://x.com/SNR_1207">
-  <img align="left" alt="Subhrojyoti Roy | Twitter" width="22px" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/013-twitter-1.png" />
-</a>
+
 <a href="https://www.linkedin.com/in/subhrojyoti-roy/">
   <img align="left" alt="Subhro'sLinkdeIN" width="22px" src="https://github.com/ssubhrojyoti/ssubhrojyoti/blob/main/assets/ico/031-linkedin.png" />
 </a>
